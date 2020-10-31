@@ -59,6 +59,9 @@ path = "./drop.rs"
 name = "texture"
 path = "./texture.rs"
 
+[[bin]]
+name = "background_scrolling"
+path = "./background_scrolling.rs"
 
 [[bin]]
 name = "yaw_pitch_roll"
